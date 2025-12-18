@@ -1,0 +1,6 @@
+\*Hello World code in C Language*\
+int main()
+{
+printf("Hello World");
+return 0;
+}
